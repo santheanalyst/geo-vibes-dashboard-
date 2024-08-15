@@ -9,7 +9,7 @@ Welcome to the **Geothermal Energy Dashboard!** This Power BI project is all abo
 
 ## 📂 Project Structure
 
-## **Main Dashboard:** 
+## **Main Dashboard** 
 Your go-to overview, giving you a snapshot of the energy production, maintenance activities, finances, and sustainability metrics. 🌟
 
 ![image](https://github.com/user-attachments/assets/748f6c2d-5aca-461e-8cfd-9fde4c540dde)
@@ -18,7 +18,8 @@ Your go-to overview, giving you a snapshot of the energy production, maintenance
 
 
 
-## **🔋 Production Department:** Dive deep into energy output and efficiency metrics. Track how well the geothermal energy is being harnessed. 
+## **🔋 Production Department**
+Dive deep into energy output and efficiency metrics. Track how well the geothermal energy is being harnessed. 
 
 ### 🧠 Key Questions:
 
@@ -48,7 +49,8 @@ Your go-to overview, giving you a snapshot of the energy production, maintenance
 
 
 
-## **🛠️ Maintenance:** Stay on top of maintenance schedules and performance. Keep everything running smoothly. 🛠
+## **🛠️ Maintenance**
+Stay on top of maintenance schedules and performance. Keep everything running smoothly. 🛠
 
 ### 🧠 Key Questions
 
@@ -78,7 +80,8 @@ Your go-to overview, giving you a snapshot of the energy production, maintenance
 
 
 
-## **💸 Financials:** Crunch those numbers! Get insights into the financial health of the operations. 
+## **💸 Financials** 
+Crunch those numbers! Get insights into the financial health of the operations. 
 
 ### 🧠 Key Questions
 
@@ -107,7 +110,8 @@ Your go-to overview, giving you a snapshot of the energy production, maintenance
 
 
 
-## **🌱 Environmental Impact:** Track environmental impact and sustainability goals. Because saving the planet is kinda important! 🌍
+## **🌱 Environmental Impact** 
+Track environmental impact and sustainability goals. Because saving the planet is kinda important! 🌍
 
 ### 🧠 Key Questions
 
