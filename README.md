@@ -9,7 +9,7 @@ Welcome to the **Geothermal Energy Dashboard!** This Power BI project is all abo
 
 ## 📂 Project Structure
 
-**Main Dashboard:** Your go-to overview, giving you a snapshot of the energy production, maintenance activities, finances, and sustainability metrics. 🌟
+### **Main Dashboard:** Your go-to overview, giving you a snapshot of the energy production, maintenance activities, finances, and sustainability metrics. 🌟
 
 ![image](https://github.com/user-attachments/assets/748f6c2d-5aca-461e-8cfd-9fde4c540dde)
 
