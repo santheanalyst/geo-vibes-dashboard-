@@ -149,6 +149,7 @@ Open it in Power BI Desktop (Free version, no need to break the bank 💰).
 Explore the visuals, interact with the data, and get all the insights you need!
 
 ## 🚀 Tech Stack
+
 **Power BI:** The magic wand 🪄 behind all the data visualization.
 
 **Excel:** Keeping it old-school with some classic spreadsheet action. 📊
@@ -168,9 +169,9 @@ Business Analysts: Use this to power up your reports and presentations.
 
 **Comprehensive Financial Data:** Because every dollar counts!
 
-🎨 Style
+## 🎨 Style
 
 Designed with a Gen Z aesthetic in mind—fresh, vibrant, and easy on the eyes. 👁️✨
 
-##🤝 Contributing
+## 🤝 Contributing
 Got ideas? Found a bug? Fork it, fix it, and send a PR. Let's make this even better together! 💪
