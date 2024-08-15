@@ -154,14 +154,14 @@ Explore the visuals, interact with the data, and get all the insights you need!
 
 **Excel:** Keeping it old-school with some classic spreadsheet action. 📊
 
-##🤓 Who's This For?
+## 🤓 Who's This For?
 
 **Geothermal Energy Enthusiasts:** If you're into renewable energy, you'll love the insights here.
 
 **Data Nerds:** Get your fix of analytics and data viz.
 Business Analysts: Use this to power up your reports and presentations.
 
-##💡 Features
+## 💡 Features
 
 **Interactive Visuals:** Filter and drill down into data for a customized view.
 
