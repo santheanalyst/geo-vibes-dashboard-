@@ -14,6 +14,9 @@ Welcome to the **Geothermal Energy Dashboard!** This Power BI project is all abo
 ![image](https://github.com/user-attachments/assets/748f6c2d-5aca-461e-8cfd-9fde4c540dde)
 
 
+
+
+
 **🔋 Production Department:** Dive deep into energy output and efficiency metrics. Track how well the geothermal energy is being harnessed. 
 
 ### 🧠 Key Questions:
